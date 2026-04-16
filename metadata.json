@@ -1,0 +1,12 @@
+{
+  "name": "Remix: EduGrade Pro",
+  "description": "Plataforma completa para criação de provas, guias de estudo e correção automática via IA para professores.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered grading",
+    "PDF Export",
+    "Performance Analytics"
+  ]
+}
